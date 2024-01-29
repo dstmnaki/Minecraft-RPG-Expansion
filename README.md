@@ -4,3 +4,7 @@ Includes compiled jar as well
 
 
 This mod basicly adds Block Story stuff to minecraft
+
+
+Curseforge link
+https://www.curseforge.com/minecraft/mc-mods/rpg-expansion
