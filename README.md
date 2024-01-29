@@ -1,4 +1,4 @@
-MCreator Package for 1.20.1 minecraft in case you want to make some edits or fix compatibility issues or anything, this project is under GPLv3 License
+MCreator Package for 1.20.1 minecraft forge in case you want to make some edits or fix compatibility issues or anything, this project is under GPLv3 License
 
 Includes compiled jar as well
 
